@@ -1,6 +1,6 @@
 {
   "require": {
-    "twig/twig": "~1.0",
+    "twig/twig": "~3.11",
     "vlucas/phpdotenv": "*",
     "fzaninotto/faker": "^1.8"
   }
